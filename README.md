@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **neshadmahmud7@gmail.com**
+- 📫 How to reach me **neshadimagify@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 

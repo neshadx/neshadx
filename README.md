@@ -7,9 +7,9 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
  💬 Fun fact Compiling Caffeine into Code
  
    <p align="left"> 
-      <a href="https://github.com/neshadx?tab=followers">
+      <a href="https://github.com/0xNeshadx?tab=followers">
          <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/Follow-55960C?logo=github&logoColor=white&style=for-the-badge&labelColor=488207"/></a>
-      <a href="https://linkedin.com/in/neshad">
+      <a href="https://linkedin.com/in/neshad-mahmud">
          <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"/></a>
       <a href="mailto:neshadimagify@gmail.com">
          <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=D44638"/></a>

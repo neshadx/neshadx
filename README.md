@@ -75,12 +75,3 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
 
 
 
-
-
-
-
-
-
-
-
-

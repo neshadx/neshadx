@@ -8,11 +8,11 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
  
    <p align="left"> 
       <a href="https://github.com/0xNeshadx?tab=followers">
-         <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/Follow-488207?logo=github&logoColor=white&style=for-the-badge&labelColor=55960C"/></a>
+         <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/Follow-55960C?logo=github&logoColor=white&style=for-the-badge&labelColor=488207"/></a>
       <a href="https://linkedin.com/in/neshad-mahmud">
-         <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1155BA?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=236AD3"/></a>
+         <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236AD3?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=1155BA"/></a>
       <a href="mailto:neshadimagify@gmail.com">
-         <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Email-CE4630?logo=gmail&logoColor=white&style=for-the-badge&labelColor=E05D44"/></a>
+         <img alt="Email" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/Email-E05D44?logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 
 </p>
 

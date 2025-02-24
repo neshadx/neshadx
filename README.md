@@ -43,7 +43,7 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
 ### 📊 Stats
 
 ![Neshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xNeshadx&show_icons=true&theme=gruvbox)
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=neshadx&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=0xNeshadx&theme=gruvbox&border_radius=4.5) -->
 [<img src="https://custom-icon-badges.demolab.com/badge/-Visit%20For%20More-red?style=for-the-badge&logo=website&logoColor=white"/>](https://neshad.com/)
 #
 

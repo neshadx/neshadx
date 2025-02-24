@@ -59,7 +59,7 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
 
 
 
-<!--![](https://github-readme-stats.vercel.app/api?username=0xNeshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=0xNeshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)<br/> 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=0xNeshadx&theme=gruvbox&hide_border=true)<br/> -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNeshadx&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 

@@ -1,6 +1,6 @@
 # 🏄‍♂️ Neshad Mahmud
 
-**`Code Craftsman (Developer)`**
+**`Code Craftsman (Frontend Developer)`**
 
 I’m an indie web developer diving deep into the MERN stack, shaping my digital vision one line of code at a time. I’m passionate about creating web solutions that make an impact and continuously improving my skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
 

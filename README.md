@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://neshad.com)
+[![MasterHead](https://i.postimg.cc/pr9k5rZV/Personal.png)](https://neshad.com)
 # 🏄‍♂️ Neshad Mahmud
 
 **`Code Craftsman (Frontend Developer)`**

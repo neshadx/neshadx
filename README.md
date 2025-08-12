@@ -6,11 +6,11 @@
 I’m an indie web developer diving deep into the MERN stack, shaping my digital vision one line of code at a time. I’m passionate about creating web solutions that make an impact and continuously improving my skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
 
  💬 Fun fact Compiling Caffeine into Code <br>
- Email: neshadmahmud7@gmail.com <br>
+  Email: neshadmahmud7@gmail.com <br>
  Phone: +8801757335657
  
    <p align="left"> 
-      <a href="https://github.com/0xNeshadx?tab=followers">
+      <a href="https://github.com/neshadx?tab=followers">
          <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/badge/Follow-55960C?logo=github&logoColor=white&style=for-the-badge&labelColor=488207"/></a>
       <a href="https://linkedin.com/in/neshad-mahmud">
          <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-236AD3?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=1155BA"/></a>
@@ -45,10 +45,10 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
  
 ### 📊 Stats
 
-<!--![Neshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true) --> 
-![Neshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshadx&show_icons=true&theme=gruvbox) 
+![Neshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true) 
+<!--![Neshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=neshadx&show_icons=true&theme=gruvbox) --> 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=neshadx&theme=gruvbox&border_radius=4.5) -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-Visit%20For%20More-red?style=for-the-badge&logo=website&logoColor=white"/>](https://neshad.com/)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Visit%20For%20More-red?style=for-the-badge&logo=website&logoColor=white"/>](https://neshadmahmud.com/)
 #
 
 
@@ -57,13 +57,11 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
  <summary><h3>👨‍💻 Neshad's Coding Journey</h3></summary>
    
 -->
-[website]: https://neshad.com
+[website]: https://neshadmahmud.com
 
 
 
 
-<!--![](https://github-readme-stats.vercel.app/api?username=0xNeshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)<br/> -->
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=0xNeshadx&theme=gruvbox&hide_border=true)<br/> -->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNeshadx&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
-<!--[![](https://visitcount.itsvg.in/api?id=0xNeshadx&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<!--![](https://github-readme-stats.vercel.app/api?username=neshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)<br/> -->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=neshadx&theme=gruvbox&hide_border=true)<br/> -->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=neshadx&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->

@@ -6,6 +6,8 @@
 I’m an indie web developer diving deep into the MERN stack, shaping my digital vision one line of code at a time. I’m passionate about creating web solutions that make an impact and continuously improving my skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
 
  💬 Fun fact Compiling Caffeine into Code
+ Email: neshadmahmud7@gmail.com
+ Phone: +8801757335657
  
    <p align="left"> 
       <a href="https://github.com/0xNeshadx?tab=followers">

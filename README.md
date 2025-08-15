@@ -1,13 +1,10 @@
-[![MasterHead](https://i.postimg.cc/3JYFHLMJ/option.png)](https://neshad.com)
 # 🏄‍♂️ Neshad Mahmud
 
 **`Code Craftsman (Frontend Developer)`**
 
 I’m an indie web developer diving deep into the MERN stack, shaping my digital vision one line of code at a time. I’m passionate about creating web solutions that make an impact and continuously improving my skills. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
 
- 💬 Fun fact Compiling Caffeine into Code <br>
-  Email: neshadmahmud7@gmail.com <br>
- Phone: +8801757335657
+ 💬 Fun fact Compiling Caffeine into Code
  
    <p align="left"> 
       <a href="https://github.com/neshadx?tab=followers">
@@ -65,3 +62,5 @@ I’m an indie web developer diving deep into the MERN stack, shaping my digital
 <!--![](https://github-readme-stats.vercel.app/api?username=neshadx&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)<br/> -->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=neshadx&theme=gruvbox&hide_border=true)<br/> -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=neshadx&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+
+<!--[![](https://visitcount.itsvg.in/api?id=neshadx&icon=0&color=0)](https://visitcount.itsvg.in) -->
